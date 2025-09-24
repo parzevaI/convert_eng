@@ -694,7 +694,6 @@ birth 941
 birthday 9411
 bishop 969
 bit 91
-bitch 96
 bite 91
 bits 910
 biz 90
@@ -1428,8 +1427,6 @@ cubic 797
 cuisine 702
 cult 751
 culture 7564
-cum 73
-cunt 721
 cup 79
 cups 790
 cure 74
@@ -1621,9 +1618,6 @@ diana 12
 diane 12
 diary 14
 dice 10
-dick 17
-dicke 17
-dicks 170
 did 11
 die 1
 died 11
@@ -2316,9 +2310,6 @@ frozen 8402
 fruit 841
 fruits 8410
 ftp 819
-fuck 87
-fucked 871
-fucking 8727
 fuel 85
 fuji 86
 fujitsu 8610
@@ -4131,8 +4122,6 @@ org 47
 organ 472
 organic 4727
 organize 4720
-orgasm 4703
-orgy 46
 oriental 4215
 oriental 425
 oriented 4211
@@ -4468,8 +4457,6 @@ pope 99
 popular 9954
 por 94
 pork 947
-porn 942
-porno 942
 porsche 946
 port 941
 portal 9415
@@ -4684,7 +4671,6 @@ ranger 4264
 ranges 4260
 rank 4277
 rap 49
-rape 49
 rapid 491
 rapidly 4915
 rapids 4910
@@ -5243,7 +5229,6 @@ shipping 6927
 ships 690
 shirt 641
 shirts 6410
-shit 61
 shock 67
 shoe 6
 shoes 60
